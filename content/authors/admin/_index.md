@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lucas Sempé
+title: Lucas Sempe
 
 # Full name (for SEO)
 first_name: Lucas
