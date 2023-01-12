@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lucas Sempe
+title: Lucas Sempé
 
 # Full name (for SEO)
 first_name: Lucas
@@ -36,7 +36,7 @@ education:
     - course: PhD in International Development
       institution: University of East Anglia (UK)
       year: 2022
-    - course: MSc in Poverty Reduction: policy and practice
+    - course: MSc in Poverty Reduction - policy and practice
       institution: SOAS, University of London (UK)
       year: 2016
 
