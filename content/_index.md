@@ -36,7 +36,7 @@ sections:
         - name: Liberia
     design:
       columns: '2'  
-      view: compact
+      view: card
   - block: experience
     content:
       title: Experience
