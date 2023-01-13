@@ -26,7 +26,7 @@ sections:
           icon_pack: fas
         - name: Psychometrics
           description: 80%
-          icon: chart-user
+          icon: <i class="fa-solid fa-chart-user"></i>
           icon_pack: fas
   - block: experience
     content:
