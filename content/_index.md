@@ -28,7 +28,7 @@ sections:
           description: 80%
           icon: chart-bar
           icon_pack: fas
-  - block: features
+  - block: collection
     content:
       title: Geographical experience
       items:
