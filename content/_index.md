@@ -34,6 +34,9 @@ sections:
       items:
         - name: Latin America - Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Peru & Mexico
         - name: Liberia
+      design:
+        columns: '2'
+        view: card
   - block: experience
     content:
       title: Experience
