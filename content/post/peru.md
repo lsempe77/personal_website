@@ -1,5 +1,5 @@
 ---
-title: Perú: mis preguntas son más que mis respuestas (in Spanish)
+title: Perú - mis preguntas son más que mis respuestas (in Spanish)
 date: 01-13-23
 summary: Reflections regarding recent conflicts in Peru
 ---
