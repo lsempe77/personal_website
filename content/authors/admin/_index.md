@@ -22,13 +22,16 @@ organizations:
     url: https://www.qmu.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social and spatial epidemiology, population health, socio determinants of health and education. I study those areas from a policy design and evaluation perspective.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Policy evaluation
+  - Health systems
+  - Spatial and social epidemiology
+  - Mental health
+  - Older people
+  - Children and education
 
 # Education to show in About widget
 education:
@@ -62,7 +65,7 @@ social:
     link: https://github.com/lsempe77
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/lsempe
+    link: https://www.linkedin.com/lsempe77
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +80,4 @@ email: ''
 highlight_name: true
 ---
 
-Lucas Sempé is a research fellow at the Institute of Global Health and Development. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Lucas Sempé is a research fellow at the Institute of Global Health and Development. His expertisse and research interests include policy evaluations across low- and middle- income countries in areas such as health, education and social protection. He currently leads the quantitative evaluation of the [REDRESS](https://www.redressliberia.org/) intervention, which focuses on access and quality of care for patients with skin NTDs (leprosy, buruli ulcer, etc.) in Liberia. {style="text-align: justify;"}
