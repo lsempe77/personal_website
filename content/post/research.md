@@ -4,6 +4,8 @@ date: 01-13-23
 summary: Mapping my research
 ---
 
+As the year begins, I've tried to map different aspects of my research, such as interests, skills, projects done and those where I am currently working. Probably this is not of interest of anyone else, but I enjoyed the process of doing it, and also publishing using `markmap`. It makes it very easy and looks quite nice!
+
 ```markmap {height="200px"}
 
 - **Research overview**
