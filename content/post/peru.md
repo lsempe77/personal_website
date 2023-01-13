@@ -1,6 +1,6 @@
 ---
 title: Perú: mis preguntas son más que mis respuestas (in Spanish)
-date: 2023-01-13
+date: 2023-13-01
 summary: Reflections regarding recent conflicts in Peru
 ---
 
