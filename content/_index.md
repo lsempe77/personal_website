@@ -29,6 +29,7 @@ sections:
           icon: chart-bar
           icon_pack: fas
   - block: experience
+    id: geo
     content:
       title: Geographical experience
       items:
