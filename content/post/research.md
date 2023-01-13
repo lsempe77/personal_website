@@ -4,7 +4,7 @@ date: 01-13-23
 summary: Mapping my research
 ---
 
-As the year begins, I've tried to map different aspects of my research, such as interests, skills, projects done and those where I am currently working. Probably this is not of interest of anyone else, but I enjoyed the process of doing it, and also publishing using `markmap`. It makes it very easy and looks quite nice!
+As the year begins, I've tried to map different aspects of my research, such as interests, skills, projects done and those where I am currently working. Probably this is not of interest of anyone else, but I enjoyed the process of doing it, and also publishing using [`markmap`](https://markmap.js.org/). It makes it very easy and looks quite nice!
 
 ```markmap
 
@@ -28,8 +28,8 @@ As the year begins, I've tried to map different aspects of my research, such as 
     - Rights of older people
     - Older people - evaluation integration social care and health
   - **EXPERIENCE**
-    - ***Peru***
-    - ***Brazil***
+    - **Peru**
+    - **Brazil**
     - Argentina, Chile, Mexico, Colombia, Ecuador, El Salvador
     - Liberia
   - **RESEARCH OUTPUTS 2023**
