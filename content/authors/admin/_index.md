@@ -80,4 +80,4 @@ email: ''
 highlight_name: true
 ---
 
-Lucas Sempé is a research fellow at the Institute of Global Health and Development. His expertisse and research interests include policy evaluations across low- and middle- income countries in areas such as health, education and social protection. He currently leads the quantitative evaluation of the [REDRESS](https://www.redressliberia.org/) intervention, which focuses on access and quality of care for patients with skin NTDs (leprosy, buruli ulcer, etc.) in Liberia. {style="text-align: justify;"}
+Lucas Sempé is a research fellow at the Institute of Global Health and Development. His expertisse and research interests include policy evaluations across low- and middle- income countries in areas such as health, education and social protection. He currently leads the quantitative evaluation of the [REDRESS](https://www.redressliberia.org/) intervention, which focuses on access and quality of care for patients with skin NTDs (leprosy, buruli ulcer, etc.) in Liberia.

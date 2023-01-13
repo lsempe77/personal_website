@@ -28,6 +28,12 @@ sections:
           description: 80%
           icon: "chart-bar"
           icon_pack: fas
+           - block: features
+    content:
+      title: Geographical experience
+      items:
+        - name: Latin America - Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Peru & Mexico
+        - name: Liberia
   - block: experience
     content:
       title: Experience
@@ -43,24 +49,28 @@ sections:
         - title: Research Fellow
           company: Queen Margaret University
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Musselburgh, Scotland, UK
           date_start: '2022-02-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Quantitative evaluation of skin NTDs health system intervention (mental health and active case finding) in Liberia
+              * Teaching quantitative methods modules
+              * De
         - title: Research Fellow & Associate Tutor
           company: University of East Anglia
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Norwich, UK
           date_start: '2017-10-01'
           date_end: '2022-01-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Taught in human geography, rural development, econometrics and education and development modules
+              * Evaluation of interventions integrating social protection and health in older people in Brazil
     design:
       columns: '2'
   # - block: accomplishments
@@ -189,28 +199,28 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   L
       # Contact (add or remove contact options as necessary)
       email: lsempe [at] qmu [dot] ac [dot] uk
       contact_links:
