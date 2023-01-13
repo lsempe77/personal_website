@@ -6,6 +6,8 @@ summary: Mapping my research
 
 As the year begins, I've tried to map different aspects of my research, such as interests, skills, projects done and those where I am currently working. Probably this is not of interest of anyone else, but I enjoyed the process of doing it, and also publishing using [`markmap`](https://markmap.js.org/). It makes it very easy and looks quite nice!
 
+If you read this and are interested to talk to explore potential collaborations, please contact me!
+
 ```markmap
 
 - **Research overview**
