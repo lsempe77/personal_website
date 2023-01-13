@@ -1,6 +1,7 @@
 ---
-title: Perú: mis preguntas son más que mis respuestas
-summary: Reflections (in Spanish) regarding recent conflicts in Peru
+title: Perú: mis preguntas son más que mis respuestas (in Spanish)
+date: 2023-01-13
+summary: Reflections regarding recent conflicts in Peru
 ---
 
 Las recientes protestas en las que muchos peruanos han perdido vidas traen diversos ángulos de reflexión y análisis. Leyendo mensajes en redes sociales y análisis de diversos personajes, encuentro esa disyuntiva, en términos simples, las clasifico temporariamente en dos posiciones extremas: "son terroristas" versus "matanza de inocentes".
