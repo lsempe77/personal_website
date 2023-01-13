@@ -32,7 +32,14 @@ sections:
     content:
       title: Geographical experience
       items:
-        - name: Latin America - Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Peru & Mexico
+        - name: Argentina
+        - name: Brazil
+        - name: Chile
+        - name: Colombia
+        - name: Ecuador
+        - name: El Salvador
+        - name: Peru
+        - name: Mexico
         - name: Liberia
     design:
       columns: '2'  
@@ -60,8 +67,9 @@ sections:
               Responsibilities include:
 
               * Quantitative evaluation of skin NTDs health system intervention (mental health and active case finding) in Liberia
+              * Case study on access of refugees and displace people to healthcare in Latin America
+              * Research on health system resilience to climate change hazards in Bangladesh
               * Teaching quantitative methods modules
-              * De
         - title: Research Fellow & Associate Tutor
           company: University of East Anglia
           company_url: ''
@@ -71,7 +79,6 @@ sections:
           date_end: '2022-01-31'
           description: |2-
               Responsibilities include:
-
               * Taught in human geography, rural development, econometrics and education and development modules
               * Evaluation of interventions integrating social protection and health in older people in Brazil
     design:
