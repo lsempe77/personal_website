@@ -28,15 +28,15 @@ sections:
           description: 80%
           icon: chart-bar
           icon_pack: fas
-  - block: experience
-    id: geo
+  - block: features
     content:
       title: Geographical experience
       items:
-        - title: Latin America - Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Peru & Mexico
-        - title: Liberia
+        - name: Latin America - Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Peru & Mexico
+        - name: Liberia
     design:
-      columns: '2'        
+      columns: '2'  
+      view: compact
   - block: experience
     content:
       title: Experience
