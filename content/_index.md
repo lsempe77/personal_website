@@ -20,7 +20,7 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Econometrics
+        - name: Impact evaluation & Systematic reviews
           description: 80%
           icon: chart-line
           icon_pack: fas
